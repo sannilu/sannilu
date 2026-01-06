@@ -10,7 +10,7 @@ Over the years, I’ve designed and developed applications using monolithic and 
 
 🔹 Strong expertise in Java-based backend systems
 
-🔹 Extensive experience in frontend frameworks including JSF, HTML, AngularJS, and Angular
+🔹 Extensive experience in frontend frameworks including JSF, HTML/CSS/Bootstrap,JavaScript, AngularJS, TypeScript, and Angular
 
 🔹 Proven background in monolithic & microservices architectures
 
