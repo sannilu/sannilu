@@ -1,107 +1,129 @@
-👋 Hi, I’m Nilesh Sanas
+# 👋 Hi, I'm Nilesh Sanas
 
-I am a Software Professional with 14+ years of experience in building scalable enterprise applications, working across frontend, backend, and distributed systems.
+Software Professional with **15+ years of experience** designing and developing scalable enterprise applications across backend, frontend, and distributed systems.
 
-Over the years, I’ve designed and developed applications using monolithic and microservice architectures, and I continuously explore emerging technologies, especially AI-driven solutions for 5G and Telecom systems.
+Throughout my career, I have designed and developed high-performance enterprise applications using both **monolithic** and **microservices architectures**, with deep expertise in Java-based backend development. I am passionate about applying **Artificial Intelligence (AI)** and **Large Language Models (LLMs)** to solve complex real-world challenges, particularly in the **Telecom and 5G domain**.
 
-🧑‍💻 Professional Summary
+---
 
-🔹 14+ years of hands-on experience in software design & development
+# 🧑‍💻 Professional Summary
 
-🔹 Strong expertise in Java-based backend systems
+* **15+ years** of experience in software architecture, design, and enterprise application development.
+* Strong expertise in **Java** and enterprise backend development.
+* Extensive frontend experience with **JSF, HTML5, CSS3, Bootstrap, JavaScript, AngularJS, TypeScript, and Angular**.
+* Proven experience designing and implementing **monolithic** and **microservices-based** systems.
+* Strong knowledge of **SQL** and **NoSQL** databases.
+* Experience building **high-performance**, **low-latency**, and **event-driven** distributed applications.
+* Passionate about **AI, LLMs, MCP, AI Agents, and Intelligent Automation**.
+* Continuous learner, exploring modern technologies to build scalable and intelligent software solutions.
 
-🔹 Extensive experience in frontend frameworks including JSF, HTML/CSS/Bootstrap,JavaScript, AngularJS, TypeScript, and Angular
+---
 
-🔹 Proven background in monolithic & microservices architectures
+# 🛠️ Technology Stack
 
-🔹 Solid understanding of SQL and NoSQL databases
+## Backend
 
-🔹 Passionate about AI, LLMs, and intelligent automation for 5G/Telecom
+* Java (Core Java, Enterprise Java)
+* Microservices Development
+* Enterprise Application Development
 
-🔹 Enthusiastic learner, continuously upgrading skills in modern tech stacks
+## Frontend
 
-🛠️ Technology Stack
-🔹 Backend
+* Angular
+* AngularJS
+* TypeScript
+* JavaScript
+* JSF
+* HTML5
+* CSS3
+* Bootstrap
 
-Java (Core Java, Enterprise Java)
+## Databases
 
-Microservices Architecture
+### SQL
 
-REST APIs
+* Oracle Database
+* PostgreSQL
+* MySQL
 
-Distributed Systems
+### NoSQL
 
-🔹 Frontend
+* Aerospike
+* MongoDB
+* Redis
+* KeyDB
 
-JSF
+## Architecture & Integration
 
-HTML / CSS
+* Monolithic Architecture
+* Microservices Architecture
+* Distributed Systems
+* Event-Driven Architecture
+* REST APIs
+* gRPC
+* WebSockets
+* Apache Kafka
+* API Design & Integration
+* Edge Load Balancing
+* Identity & Access Management (IAM)
+* OAuth 2.0
+* JSON Web Tokens (JWT)
 
-AngularJS
+## AI & Emerging Technologies
 
-Angular
+* Artificial Intelligence (AI)
+* Large Language Models (LLMs)
+* AI Agents
+* Model Context Protocol (MCP)
+* AI Tool Orchestration
+* Local & Cloud LLM Integration
+* AI Applications for Telecom & 5G
 
-🔹 Databases
+---
 
-SQL: MySQL, PostgreSQL, Oracle
+# 📡 Domain Expertise
 
-NoSQL: Redis / KeyDB, MongoDB
+* Telecom & 5G Systems
+* Network Event Processing
+* Event Correlation Systems
+* Real-Time Data Processing
+* High-Performance Backend Services
+* Low-Latency Distributed Systems
+* Enterprise Application Development
 
-🔹 Architecture & Platforms
+---
 
-Monolithic & Microservices
+# 🚀 Currently Exploring
 
-Event-driven systems
+* AI-powered Automation for 5G Network Operations
+* MCP Servers & AI Tool Gateways
+* AI Agent Development
+* Local & Cloud-based LLM Integration
+* Intelligent Event Analysis using AI
+* Scalable Distributed System Design for Telecom Workloads
 
-API-based integrations
+---
 
-🔹 AI & Emerging Tech
+# 📂 Featured Projects
 
-AI/LLMs integration
+## Microservices Architecture
 
-MCP (Model Context Protocol)
+Design patterns, best practices, and reference implementations for building scalable enterprise microservices.
 
-AI agents & tool orchestration
+*More open-source projects are coming as I continue building and experimenting with AI, distributed systems, and telecom-focused solutions.*
 
-AI applications in 5G & Telecom domain
+---
 
-📡 Domain Expertise
+# 🎯 Career Philosophy
 
-Telecom & 5G Systems
+> **"Build systems that are scalable, secure, intelligent, and resilient—while embracing continuous learning and innovation."**
 
-Network Events & Correlation Systems
+---
 
-High-performance, low-latency backend services
+# 🤝 Let's Connect
 
-Real-time data processing
+**Software Architect | Java Backend Engineer | AI Enthusiast**
 
-🚀 What I’m Currently Exploring
+Building scalable enterprise applications at the intersection of **Java, Distributed Systems, AI, Telecom, and 5G**.
 
-AI-driven automation for 5G Network Operations
-
-MCP Servers & AI Tool Gateways
-
-Local & Cloud-based LLM integration
-
-Intelligent event analysis using AI
-
-Scalable system design for telecom workloads
-
-📂 Featured Repositories
-
-🔹 microservices-architecture
-Design patterns & best practices for enterprise microservices
-
-(More projects coming as I continue building and experimenting)
-
-🎯 Career Philosophy
-
-“Build systems that are scalable, secure, and intelligent — and keep learning every day.”
-
-🤝 Let’s Connect
-
-💼 Software Architect | Backend Engineer | AI Enthusiast
-
-📡 Telecom & 5G + AI
-
-🌱 Always learning, always building
+🌱 **Always learning. Always building. Always innovating.**
